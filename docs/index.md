@@ -17,13 +17,11 @@ UI for tracking live respawn of static NPC locations.
 
 ## Getting Started
 
-Quick start instructions to get users up and going
-
 ```txt
 /plugin MQRespawn
 ```
 
-## Commands
+### Commands
 
 <a href="cmd-respawntimer/">
 {% 
