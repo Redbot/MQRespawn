@@ -1,0 +1,5 @@
+docs_repository: "https://github.com/Redbot/MQRespawn"
+docs_edit_uri: "edit/readguides/"
+docs_path_transform:
+  from: "projects/mqrespawn/"
+  to: "docs/"
